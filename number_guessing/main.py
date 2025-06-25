@@ -1,3 +1,7 @@
+#
+# ? python calculator app project
+# ? developed by Mohammad Amin Farshbaf. 2025-6-25 11:07 PM
+
 import random
 from tkinter import *
 
