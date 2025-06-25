@@ -1,4 +1,4 @@
-# ? python calculator app project
+# ? python todo list (command-line) project
 # ? developed by Mohammad Amin Farshbaf. 2025-6-26 12:14 AM
 
 # * app variables
